@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">悬浮窗体</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="strBtn">显示悬浮窗体</string>
+    <string name="strPic">LOGO图片</string>
+    <string name="strTextTop">悬浮</string>
+    <string name="strTextBottom">示例</string>
+
+</resources>
